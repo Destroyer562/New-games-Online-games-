@@ -13,5 +13,5 @@ movement </container>
 <container> Words 
 <Title> Welcome to the Maze game </Title>
 <body> A angry man has spotted you in his yard and there is a large maze in front of you. It is your only way out, if you stay in his yard you will most surly die, if you get through the Maze you can go to the cops and arrest the phyco house owner. Will be a survior or be in a  coffin? </body> 
-<code> Text="Times New Roman" "12"
+<code> Text="Times New Roman" "12" </code>
 </container>
